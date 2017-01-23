@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It's update whit Bash...
+=======
+Hello!!!
+>>>>>>> ab2195900105bda9a4b39303f31553344cebd7e5
